@@ -1,0 +1,2 @@
+# homework1_2
+homework1_2_for_python_developer
